@@ -3,5 +3,5 @@ This repo contains prototyping code in the form of python notebooks to build, tr
 
 # Architecture
 <p align="center">
-  <img width="655" alt="cross-attn-training" src="https://github.com/iwinterknight/LLMs_Cross_Task_Colab/assets/37212007/406113f0-fedd-4b5b-9e6b-19327c29a7f2">
+  <img width="955" alt="cross-attn-training" src="https://github.com/iwinterknight/LLMs_Cross_Task_Colab/assets/37212007/406113f0-fedd-4b5b-9e6b-19327c29a7f2">
 </p>
