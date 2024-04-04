@@ -16,7 +16,7 @@ The cross-attention architecture is trained on a joint cross-entropy loss for su
 # Evaluation
 The base evaluation uses Rouge metric and BERT Score to compare the generated summary's quality against other open sourced summarization models. 
 <p align="center">
-<img width="324" alt="rouge_scores" src="https://github.com/iwinterknight/LLMs_Cross_Task_Colab/assets/37212007/afdcb56f-862d-47b5-8d2c-fc29167fa4e7">
+<img width="334" alt="rouge_scores" src="https://github.com/iwinterknight/LLMs_Cross_Task_Colab/assets/37212007/66edb9e2-4a0b-4500-a50a-54bac7a01984">
 </p>
 <p align="center">
 <img width="317" alt="bert_scores" src="https://github.com/iwinterknight/LLMs_Cross_Task_Colab/assets/37212007/8d00aea0-2dd5-4ed7-969f-c36c71aad077">
